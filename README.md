@@ -31,3 +31,6 @@ As listed above, two functions were created that instantiate the classes (in eac
 
 # 4.  How the code is implemented.
 Using the customer_banking.py module, the Account class is instantiated.  User input is gathered to get balance, interest rate, and maturity term.  Then this data is passed to the savings and CD objects and returns to the user a summary of balance and amount of interest earned based upon the Account class object and the aforementioned functions.
+
+# 5.  The code can be accessed in the below public Git repo.
+https://github.com/lcanjar/customer_banking.git
