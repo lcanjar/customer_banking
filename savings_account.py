@@ -31,6 +31,4 @@ def create_savings_account(balance, interest_rate, months):
     my_account.set_interest(interest)
 
     # Return the updated balance and interest earned.
-    print(f"Your new balance is, {my_account.get_balance()}")
-
     return [my_account.get_balance(), my_account.get_interest()]
